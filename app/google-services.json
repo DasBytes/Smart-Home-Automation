@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1027864586575",
+    "firebase_url": "https://home-automation-ca913-default-rtdb.firebaseio.com",
+    "project_id": "home-automation-ca913",
+    "storage_bucket": "home-automation-ca913.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027864586575:android:03c4aa39f4c3a809527d3a",
+        "android_client_info": {
+          "package_name": "com.example.homeautomation1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0qBkw-ituwd4UQO6ql9zesO_Ll8mgAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027864586575:android:47b32eddf3920e23527d3a",
+        "android_client_info": {
+          "package_name": "com.example.iot_home_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI0qBkw-ituwd4UQO6ql9zesO_Ll8mgAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

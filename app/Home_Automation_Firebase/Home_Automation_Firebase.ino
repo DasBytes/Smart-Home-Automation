@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <FirebaseESP8266.h>
 
-#define WIFI_SSID "EDU Students"
-#define WIFI_PASSWORD "campus@334422"
+#define WIFI_SSID "wifi name"
+#define WIFI_PASSWORD "wifi pass"
 
 #define FIREBASE_HOST "home-automation-ca913-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "YHLmGAW1ITJfXcnz1YKDI2M7sK3dGYpYuDeBbqbO"

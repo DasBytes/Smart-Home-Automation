@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1001;
     private static final String FAN_PATH = "devices/fan";
     private static final String LIGHT_PATH = "devices/light";
-    public static final String OPEN_WEATHER_API_KEY = "f52a48ea3dd80f07bcd97b88d1a74aee";
+    public static final String OPEN_WEATHER_API_KEY = "a5d43311b134a1d5d32822708b445453";
 
     private Switch fanSwitch, lightSwitch;
     private TextView fanStatus, lightStatus, locationStatus, temperatureStatus, wifiStatus;
